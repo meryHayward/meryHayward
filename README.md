@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on https://movies-series-app.vercel.app/ and https://ppi-web-oxlajuj.vercel.app/
-- ALSO CHECKOUT THESE PROJECTS:https://meryhayward.github.io/clarinChallenge/
+- ALSO CHECKOUT THis PROJECT:https://meryhayward.github.io/clarinChallenge/
 - 🌱 Enjoy learning More and More from React and Vue
 - 👯 I’m looking to collaborate on Climate Change conscious apps
 - 💬 Ask me about Any name of actor/actress, director I'll know it! Also I'm an amateur actress
